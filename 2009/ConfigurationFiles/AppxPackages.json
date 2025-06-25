@@ -37,7 +37,7 @@
   },
   {
     "AppxPackage": "Microsoft.GamingApp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox/9mv0b5hzvk9z",
     "Description": "Xbox app"
   },
@@ -247,19 +247,19 @@
   },
   {
     "AppxPackage": "Microsoft.YourPhone",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/Your-phone/9nmpj99vjbwv",
     "Description": "Android phone to PC device interface app"
   },
   {
     "AppxPackage": "Microsoft.ZuneMusic",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt",
     "Description": "Groove Music app"
   },
   {
     "AppxPackage": "Microsoft.ZuneVideo",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2",
     "Description": "Movies and TV app"
   },
@@ -277,7 +277,7 @@
   },
   {
     "AppxPackage": "Microsoft.XboxApp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/store/apps/9wzdncrfjbd8",
     "Description": "Xbox 'Console Companion' app (games, friends, etc.)"
   },
